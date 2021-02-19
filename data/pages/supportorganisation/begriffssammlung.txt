@@ -1,0 +1,9 @@
+====== Begriffssammlung ======
+===== Qualität =====
+===== Prozess =====
+===== Service =====
+===== IT-Service Management =====
+===== ITIL =====
+===== Incident =====
+===== Helpdesk =====
+===== SPoC =====
