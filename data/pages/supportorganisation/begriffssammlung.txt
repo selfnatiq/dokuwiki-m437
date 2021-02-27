@@ -31,6 +31,7 @@ Ein häufiges Anwendungsbeispiel für ITSM-Services sind IT Service Desks oder H
 ITIL steht für IT Infrastructure Library. Es ist ein Framework (Sammlung) von Best Practices (Erfolgsmethoden, von IT Profis aus der Praxis für die Praxis) zur Umsetzung eines IT-Service-Managements. 
 ===== Incident =====
 Unter einem Incident verstehen wir eine Störung des normalen ICT-Betriebes, welche zu Beeinträchtigungen führt. Diesen gilt es nach Möglichkeiten zu vermeiden. Die Aufgabe des Incident Managements besteht darin, den IT Service so schnell wie möglich wieder in den Normalzustand zu bringen oder mit Workarounds sicherzustellen, dass der Betrieb weiter gehen kann. Das Incident Management betreibt einen Helpdesk, welcher sich um diese Incidents kümmert.
+
 ===== Helpdesk =====
 Das Helpdesk entspricht einer Weitergehenden Supportorganistation in der Anfragen auch per FAX und E-mail oder im Chat und Komplexe Probleme behoben werden. Meistens nimmt das Helpdesk zusätzliche operative Aufgaben wahr.
   * Backup and Restore
@@ -38,5 +39,10 @@ Das Helpdesk entspricht einer Weitergehenden Supportorganistation in der Anfrage
   * Benutzer, Passwort und Systemverwaltung
   * Hardware
   * Kundeninformation
+===== Service Desk =====
+Service Desk sorgt für die schnellstmögliche Wiederherstellung des definierten Betriebs­zustands eines Service. Neben Störungen werden auch alle Anfragen (Service Requests) der Anwender über das Service Desk erfasst, außerdem wird erste Hilfestellung geleistet und gegebe­nenfalls die weitere Bearbeitung in den nachgelagerten Supporteinheiten koordiniert. \\
+//[[https://wiki.de.it-processmaps.com/index.php/Service_Desk_and_Incident_Management| Service Desk - processmaps]]//
 ===== SPoC =====
 Single Point of Contact: Dabei handelt es sich um ein Zentrale Anlauf- und Kontakt Stelle, an die Kunden die Supportorganisation immer zuerst wenden. Des SPoC nimmt Anfragen und Störungsmeldungen des Kunden entgegen und bearbeitet diese unter Berücksichtigung der im SLA vereinbarten Leistungen und Bedingungen.
+
+{{:supportorganisation:spoc.png?nolink&200|}}
