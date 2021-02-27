@@ -1,1 +1,33 @@
-====== ITIL ======
+====== ITIL - IT Infrastructure Library ======
+{{ :supportorganisation:itil.png?nolink&200|}}
+Die IT Infrastructure Library ist eine Library mit Volumes, die einen Rahmen von Best Practices für die Bereitstellung von IT-Services beschreibt. ITIL hat in seiner Geschichte mehrere Revisionen durchlaufen und umfasst derzeit fünf Bücher, die jeweils verschiedene Prozesse und Phasen des IT-Service-Lifecycle abdecken. Der systematische Ansatz von ITIL beim IT-Service-Management kann Unternehmen dabei helfen, Risiken zu managen, Kundenbeziehungen zu stärken, kostengünstige Praktiken zu etablieren und eine stabile IT-Umgebung aufzubauen, die Wachstum, Skalierung und Veränderung ermöglicht. \\
+Das ITIL wurde in den 1980er Jahren von der Central Computer and Telecommunications Agency (CCTA) der britischen Regierung entwickelt und bestand zunächst aus mehr als 30 Büchern, die im Laufe der Zeit entwickelt und veröffentlicht wurden und Best Practices in der Informationstechnologie aus vielen Quellen auf der ganzen Welt kodifizierten.
+
+===== Was beinhaltet ITIL? =====
+ITIL 4, das 2019 veröffentlicht wurde, konzentriert sich weiterhin auf die Automatisierung von Prozessen, die Verbesserung des Service-Managements und die Integration der IT-Abteilung in das Unternehmen. Es aktualisiert jedoch auch das Framework, um moderne Technologien, Tools und Software zu berücksichtigen und darauf zu reagieren. Seit dem letzten Update von ITIL hat sich die IT-Abteilung zu einem integralen Bestandteil jedes Unternehmens entwickelt. Das neue Framework berücksichtigt dies, indem es agiler, flexibler und kollaborativer ist.
+
+ITIL 4 enthält neun Guide-Principles, die aus der jüngsten ITIL Practitioner-Prüfung übernommen wurden. Diese umfasst das organisatorische Änderungsmanagement, die Kommunikation und Messung sowie Metriken. Diese Principles umfassen:
+  * Focus on value
+  * Design for experience
+  * Start where you are
+  * Work holistically
+  * Progress iteratively
+  * Observe directly
+  * Be transparent
+  * Collaborate
+  * Keep it simple
+//
+[[https://www.cio.com/article/2439501/infrastructure-it-infrastructure-library-itil-definition-and-solutions.html| ITIL - CIO]]//
+===== Vorteile von ITIL =====
+  * ITIL bietet eine Grundlage für die wirtschaftliche und zweckmässige Erbringung von ICT-Servicedienstleistungen.
+  * ITIL ist eine Beschreibung von Prozessen oder Verfahren, die Raum lässt für individuelle Implementation innerhalb einer Firma.
+  * ITIL gilt als Quasi-Standard im ICT-Service-Management.
+  * ITIL ist sehr flexibel. Es können zu Beginn auch nur einzelne Teile umgesetzt werden und trotzdem ist eine Verbesserung möglich.
+
+===== Nachteile von ITIL =====
+  * ITIL beschreibt nicht, wie etwas ganz konkret umgesetzt werden soll.
+  * Es beschreibt nicht, wie ein Rollout genau auszusehen hat.
+  * Dem Framework fehlt oft die Verbindlichkeit.
+  * Oft bleibt es bei einer Wunschvorstellung
+
+
