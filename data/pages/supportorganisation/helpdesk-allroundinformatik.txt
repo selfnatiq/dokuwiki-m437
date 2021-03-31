@@ -1,3 +1,28 @@
 ====== Helpdesk der Firma Allroundinformatik ======
 ===== Überblick =====
 Ziel des Helpdesk ist es, die Lösung von Kundenanliegen und Problemen so schnell wie möglich zu erleichtern. Das Helpdesk bietet eine zentrale Anlaufstelle, um sicherzustellen, dass alle Anrufe weiterverfolgt und Probleme gelöst werden.
+
+{{ :playground:Helpdesk.PNG?nolink |}}
+
+===== Ablauf des Helpdesk =====
+
+
+==== Schritt 1 ====
+
+Der Benutzer meldet sich per Email, Telephone, Self Service Portal, Ticket oder Chat beim Helpdesk, dieser erfasst ein Ticket wenn dies noch nicht vom Kunden selbst gemacht wurde.
+
+==== Schritt 2 ====
+
+Ein Helpdesk ist meistens nach dem Single Point of Contact (SPoC) organisiert. Das bedeutet das dieser Helpdesk meistens die einzige Anlaufstelle für das gesamte Unternehmen ist. Die Anfragen werden als erstes Sortiert. Es wird z.B. nach folgenden Kategorien Sortiert:
+  * Kundenwunsch
+  * Fragen zur Software
+  * Problemmeldung
+
+==== Schritt 3 ====
+
+Je nach dem wird der Fall an die dafür zuständige Abteilung weitergeleitet. Im Falle einer Incident Meldung wird es vom Helpdesk weiterbearbeitet. Das Problem wird nun genauer Analysiert und mit dem Kunden abgesprochen. 
+Oft gestellte Fragen sind:
+  * Seit wann ist das Problem aufgetreten?
+  * Was wurde gemacht dass das Problem auftritt?
+  * Bei welchem Schritt tritt das Problem auf?
+Natürlich gibt es noch viele weitere Fragen die geklärt werden müssen, das ist aber auch von Problem zu Problem anders.
