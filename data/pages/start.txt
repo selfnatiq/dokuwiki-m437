@@ -1,40 +1,11 @@
-====== Mein Wiki im Modul 437 ======
-Hier fasse ich das Gelernte aus dem Modul 437 zusammen.
+====== Wiki Home ======
+Dieses Wiki enthält das, was ich bisher in Modul 437 gelernt habe. Hier habe ich Themen zum IT-Support dokumentiert.
 
-===== Diverse Befehle =====
-Ich kann **Fett**, //Kursiv// und __Unterstrichen__ schreiben.
-
-Ich kann [[https://www.google.com/|einen externen Link auf Dokuwiki]] einfügen.
-
-===== Links =====
-Ich kann eine neue Seite anlegen und verlinken [[m437:ExamplePage|Example Page]].
-
-Ich kann eine neue Seite anlegen und verlinken, welche in einem Namensraum liegt [[m437:ExamplePage|Example Page]].
-
-===== Bilder =====
-Auch Bilder kann ich einfügen:
-
-{{:gibb_logo.png?nolink&200|}}
-
-===== Listen =====
-Auch Listen sind kein Problem:
-
-  * Erstes Element
-  * Zweites Element
-     * Unter Element
-  * Drittes Element
-
-  - Erstes Element
-  - Zweites Element
-     - Unter Element
-  - Drittes Element
-
-===== Textelemente =====
-Ganz normalen Text meistere ich mit Links.
-
-<file>
-Text in einer Box
-meistere ich mit Rechts
-</file>
-
-Alles ist möglich :-). DokuWiki ist okay!
+Und hier können Sie meine neuesten Beiträge lesen:
+  * [[supportorganisation:begriffssammlung| Wichtige Begriffe ]]
+  * [[supportorganisation:helpdesk-allroundinformatik|Helpdesk der Firma Allroundinformatik]]
+  * [[supportorganisation:itil|ITIL - IT Infrastructure Library]]
+  * [[supportorganisation:sla|Service Level Agreement]]
+  * [[supportorganisation:supportlevels|Support Levels]]
+  * [[supportorganisation:verfuegbarkeit|Verfügbarkeit]]
+  * [[supportorganisation:vierohrenprinzip|Das 4 Ohren Modell]]
