@@ -1,0 +1,30 @@
+====== Support Levels ======
+IT Support Levels ist der Ausdruck, der in IT-Organisationen synonym verwendet wird. Dies beschreibt normalerweise die Fähigkeiten und Zugriffsebenen des IT-Support-Personals.
+
+Obwohl es erhebliche Abweichungen geben kann (Anpassung), implementiert eine typische IT-Support-Infrastruktur normalerweise die folgenden Support-Levels.
+  * First-Level-Support
+  * Second-Level-Support
+  * Third-Level-Support
+
+{{ :supportorganisation:als.jpg?nolink&400|}}
+
+===== First-Level-Support =====
+//Kurz gesagt: Grundlegende Probleme lösen, allgemeine Fragen zur Softwarefunktionalität beantworten.//
+
+First-Level-Support ist der erste Ansprechpartner für Probleme. Die Kontaktaufnahme erfolgt entweder über ein Ticketsystem, per E-Mail oder telefonisch. Abhängig von der Schwierigkeit des Problems kann es bereits von der Unterstützung der ersten Level gelöst oder an die Unterstützung der zweiten oder dritten Level weitergeleitet werden. Der entsprechende Mitarbeiter hat viel Kundenkontakt.
+
+===== Second-Level-Support =====
+//Kurz gesagt: Ausführliche technische Unterstützung.//
+
+Second-Level-Support ist eine eingehendere technische Unterstützung, die sich mit den Problemen befasst, die Level 1-Mitarbeiter nicht lösen können. Um diese Probleme zu beheben, sollten Supporter häufig Protokolle untersuchen und verstehen, in welche Software eine unterstützte Lösung integriert ist. Wenn Level 2-Supportspezialisten das Problem nicht beheben können, wird es an die nächste Support-Level weitergeleitet, um detailliertere Informationen zu erhalten.
+
+===== Third-Level-Support =====
+//Kurz gesagt: Behandlung fortgeschrittener Probleme, die auf Codeebene untersucht werden müssen.//
+
+Level 3-Support ist die höchste Ebene in einem hierarchischen 3-Level-Support-Modell. Er ist verantwortlich für die schwierigsten und komplexesten Probleme. Diese Personen sind Experten auf ihrem Gebiet und nicht nur für die Unterstützung der Unterstützung der Stufen 1 und 2 verantwortlich, sondern auch für die Erforschung und Entwicklung von Lösungen für neue oder unbekannte Probleme.
+
+Beachten Sie, dass Support-Techniker der Level 3 die gleiche Verantwortung wie Support-Techniker der zweiten Level haben, wenn es darum geht, den Arbeitsauftrag zu überprüfen und die bereits mit dem Kunden verbrachte Zeit zu bewerten, damit die Arbeit priorisiert wird und ausreichend Zeitmanagement verwendet wird. Wenn möglich, wird der Techniker daran arbeiten, das Problem mit dem Kunden zu lösen, da sich herausstellen kann, dass die Techniker des Supports der ersten Level und / oder des Supports der zweiten Level einfach nicht die richtige Lösung gefunden haben. Wenn jedoch neue Probleme auftreten, müssen Level 3-Mitarbeiter zunächst entscheiden, ob das Problem behoben werden soll oder nicht, und benötigen möglicherweise die Kontaktdaten des Kunden, damit der Techniker genügend Zeit hat, das Problem zu untersuchen und eine Lösung zu finden. Es ist typisch, dass ein Entwickler oder jemand, der den Code oder das Backend des Produkts kennt, die Level 3-Support-Person ist.
+
+//Dieses Level 3 Support Team kann den Code und die Daten mit Hilfe der Informationen von First und Second Level Support analysieren.// 
+
+//[[https://www.scnsoft.com/blog/help-desk | SCNSoft]]//

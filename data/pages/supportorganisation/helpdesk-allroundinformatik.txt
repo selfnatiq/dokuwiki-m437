@@ -2,27 +2,37 @@
 ===== Überblick =====
 Ziel des Helpdesk ist es, die Lösung von Kundenanliegen und Problemen so schnell wie möglich zu erleichtern. Das Helpdesk bietet eine zentrale Anlaufstelle, um sicherzustellen, dass alle Anrufe weiterverfolgt und Probleme gelöst werden.
 
-{{ :playground:Helpdesk.PNG?nolink |}}
+{{ :supportorganisation:helpdesk-ablauf.png?nolink&1200 |}}
 
 ===== Ablauf des Helpdesk =====
 
 
-==== Schritt 1 ====
+==== Stage 1 ====
 
-Der Benutzer meldet sich per Email, Telephone, Self Service Portal, Ticket oder Chat beim Helpdesk, dieser erfasst ein Ticket wenn dies noch nicht vom Kunden selbst gemacht wurde.
+Der Benutzer meldet sich per E-Mail, Telefon, Self-Service-Portal, Ticket oder Chat beim Helpdesk. Der Helpdesk zeichnet ein Ticket auf, wenn dies noch nicht vom Kunden selbst durchgeführt wurde.
 
-==== Schritt 2 ====
+==== Stage 2 ====
 
-Ein Helpdesk ist meistens nach dem Single Point of Contact (SPoC) organisiert. Das bedeutet das dieser Helpdesk meistens die einzige Anlaufstelle für das gesamte Unternehmen ist. Die Anfragen werden als erstes Sortiert. Es wird z.B. nach folgenden Kategorien Sortiert:
-  * Kundenwunsch
-  * Fragen zur Software
-  * Problemmeldung
+Ein Helpdesk ist normalerweise nach dem Single Point of Contact (SPoC) organisiert. Dies bedeutet, dass dieser Helpdesk normalerweise die einzige Anlaufstelle für das gesamte Unternehmen ist. Die Anfragen werden zuerst sortiert. Beispielsweise wird es nach folgenden Kategorien sortiert:
+  * Kundenanfragen 
+  * Software-Fragen 
+  * Incidents melden
 
-==== Schritt 3 ====
+==== Stage 3 ====
 
-Je nach dem wird der Fall an die dafür zuständige Abteilung weitergeleitet. Im Falle einer Incident Meldung wird es vom Helpdesk weiterbearbeitet. Das Problem wird nun genauer Analysiert und mit dem Kunden abgesprochen. 
-Oft gestellte Fragen sind:
+Abhängig davon wird der Fall an die zuständige Abteilung weitergeleitet. Im Falle eines Vorfallberichts wird dieser vom Helpdesk weiterverarbeitet. Das Problem wird nun genauer analysiert und mit dem Kunden besprochen. 
+Häufig gestellte Fragen sind: 
+
   * Seit wann ist das Problem aufgetreten?
   * Was wurde gemacht dass das Problem auftritt?
   * Bei welchem Schritt tritt das Problem auf?
-Natürlich gibt es noch viele weitere Fragen die geklärt werden müssen, das ist aber auch von Problem zu Problem anders.
+
+Natürlich gibt es viele andere Fragen, die geklärt werden müssen, aber das variiert auch von Problem zu Problem.
+
+==== Stage 4 ====
+
+Benutzer über die Lösung informiert, und die Lösung des Vorfalls wird dokumentiert. Wenn alles richtig gemacht wurde, wird die Anfrage geschlossen zugewiesen.
+
+==== Stage 6 ====
+
+Benutzern Feedback geben und Feedback der Benutzer sammeln per E-Mail oder Website.

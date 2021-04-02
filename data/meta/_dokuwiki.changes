@@ -1,22 +1,87 @@
-1614434499	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[ITIL] 		530
-1614434627	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[ITIL] 		409
-1614434717	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[ITIL] 		-734
-1614435197	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[Helpdesk] 		347
-1614435448	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[SPoC] 		313
-1614435712	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[Incident] 		461
-1614436108	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[SPoC] 		47
-1614436119	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[SPoC] 		0
-1614436852	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin			393
-1614436946	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[Service Desk] 		113
-1614436960	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[Service Desk] 		5
-1614441116	127.0.0.1	E	supportorganisation:itil	vmadmin			2705
-1614441166	127.0.0.1	E	supportorganisation:itil	vmadmin	[Was beinhaltet ITIL?] 		128
-1614441172	127.0.0.1	E	supportorganisation:itil	vmadmin	[Was beinhaltet ITIL?] 		4
-1614441283	127.0.0.1	E	supportorganisation:itil	vmadmin	[ITIL] 		47
-1614441328	127.0.0.1	E	supportorganisation:itil	vmadmin			2
-1614441349	127.0.0.1	E	supportorganisation:itil	vmadmin			4
-1614441370	127.0.0.1	E	supportorganisation:itil	vmadmin			28
-1614442684	127.0.0.1	E	supportorganisation:helpdesk-allroundinformatik	vmadmin			262
-1614866205	127.0.0.1	E	supportorganisation:helpdesk-allroundinformatik		[Überblick] 		1162
 1617301295	127.0.0.1	C	sidebar	vmadmin	created		26
 1617301403	127.0.0.1	D	sidebar	vmadmin	removed		-26
+1617303019	127.0.0.1	E	supportorganisation:itil	vmadmin	[ITIL - IT Infrastructure Library] 		0
+1617303026	127.0.0.1	E	supportorganisation:itil	vmadmin	[ITIL - IT Infrastructure Library] 		0
+1617303034	127.0.0.1	E	supportorganisation:itil	vmadmin	[ITIL - IT Infrastructure Library] 		0
+1617303040	127.0.0.1	E	supportorganisation:itil	vmadmin	[ITIL - IT Infrastructure Library] 		0
+1617303082	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[Prozess] 		-1
+1617303135	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[Prozess] 		-1
+1617303146	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[Prozess] 		0
+1617303164	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[Service] 		-1
+1617303175	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[Service] 		-49
+1617303200	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[Prozess] 		0
+1617303259	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[Prozess] 		50
+1617303274	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[Prozess] 		-50
+1617303296	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[Prozess] 		0
+1617303317	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[Prozess] 		-1
+1617303334	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[Prozess] 		2
+1617303353	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[Prozess] 		-1
+1617303380	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[Prozess] 		3
+1617303395	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[Prozess] 		1
+1617303401	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[Prozess] 		0
+1617303411	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[Prozess] 		1
+1617303421	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[Prozess] 		-1
+1617303480	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[Prozess] 		-1
+1617303503	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[Prozess] 		-1
+1617306354	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[Prozess] 		0
+1617306363	127.0.0.1	E	supportorganisation:begriffssammlung	vmadmin	[Prozess] 		0
+1617306437	127.0.0.1	E	supportorganisation:supportlevel	vmadmin			1541
+1617306648	127.0.0.1	E	supportorganisation:supportlevel	vmadmin			-1508
+1617306728	127.0.0.1	E	supportorganisation:supportlevel	vmadmin			177
+1617306783	127.0.0.1	E	supportorganisation:supportlevel	vmadmin			156
+1617306816	127.0.0.1	E	supportorganisation:supportlevel	vmadmin			74
+1617306824	127.0.0.1	E	supportorganisation:supportlevel	vmadmin			-1
+1617306921	127.0.0.1	E	supportorganisation:supportlevel	vmadmin			106
+1617307030	127.0.0.1	E	supportorganisation:supportlevel	vmadmin			320
+1617307042	127.0.0.1	E	supportorganisation:supportlevel	vmadmin			1
+1617307505	127.0.0.1	E	supportorganisation:supportlevel	vmadmin			78
+1617307540	127.0.0.1	E	supportorganisation:supportlevel	vmadmin			38
+1617307568	127.0.0.1	E	supportorganisation:supportlevel	vmadmin	[Second-Level-Support] 		57
+1617307704	127.0.0.1	E	supportorganisation:supportlevel	vmadmin	[Second-Level-Support] 		461
+1617307724	127.0.0.1	E	supportorganisation:supportlevel	vmadmin	[Second-Level-Support] 		13
+1617307845	127.0.0.1	E	supportorganisation:supportlevel	vmadmin			133
+1617307929	127.0.0.1	E	supportorganisation:supportlevel	vmadmin	[Third-Level-Support] 		398
+1617308144	127.0.0.1	E	supportorganisation:supportlevel	vmadmin	[Third-Level-Support] 		998
+1617308166	127.0.0.1	E	supportorganisation:supportlevel	vmadmin	[Third-Level-Support] 		138
+1617308302	127.0.0.1	E	supportorganisation:supportlevel	vmadmin			49
+1617308320	127.0.0.1	E	supportorganisation:supportlevel	vmadmin	[Third-Level-Support] 		9
+1617308440	127.0.0.1	E	supportorganisation:supportlevel	vmadmin			46
+1617308454	127.0.0.1	E	supportorganisation:supportlevel	vmadmin			1
+1617308501	127.0.0.1	E	supportorganisation:supportlevel	vmadmin			-1
+1617308520	127.0.0.1	E	supportorganisation:supportlevel	vmadmin			1
+1617308536	127.0.0.1	E	supportorganisation:supportlevel	vmadmin			2
+1614429277	127.0.0.1	E	supportorganisation:verfuegbarkeit		external edit		29
+1617309766	127.0.0.1	E	supportorganisation:verfuegbarkeit	vmadmin			2
+1617310067	127.0.0.1	E	supportorganisation:verfuegbarkeit	vmadmin			-2
+1617310532	127.0.0.1	E	supportorganisation:verfuegbarkeit	vmadmin			452
+1617311261	127.0.0.1	E	supportorganisation:verfuegbarkeit	vmadmin			315
+1617311464	127.0.0.1	E	supportorganisation:verfuegbarkeit	vmadmin	[Formel] 		60
+1617311471	127.0.0.1	E	supportorganisation:verfuegbarkeit	vmadmin	[Formel] 		4
+1617311853	127.0.0.1	E	supportorganisation:verfuegbarkeit	vmadmin			485
+1614429277	127.0.0.1	E	supportorganisation:vierohrenprinzip		external edit		30
+1617311984	127.0.0.1	E	supportorganisation:vierohrenprinzip	vmadmin			3
+1617312006	127.0.0.1	E	supportorganisation:vierohrenprinzip	vmadmin			221
+1617312267	127.0.0.1	E	supportorganisation:vierohrenprinzip	vmadmin			60
+1617312299	127.0.0.1	E	supportorganisation:vierohrenprinzip	vmadmin			0
+1617312350	127.0.0.1	E	supportorganisation:vierohrenprinzip	vmadmin			464
+1617365478	127.0.0.1	E	supportorganisation:verfuegbarkeit	vmadmin			70
+1617365596	127.0.0.1	E	supportorganisation:vierohrenprinzip	vmadmin			73
+1617365677	127.0.0.1	E	supportorganisation:vierohrenprinzip	vmadmin			-76
+1617365762	127.0.0.1	E	supportorganisation:vierohrenprinzip	vmadmin			521
+1617365771	127.0.0.1	E	supportorganisation:vierohrenprinzip	vmadmin			1042
+1617365929	127.0.0.1	E	supportorganisation:vierohrenprinzip	vmadmin			-47
+1617365986	127.0.0.1	E	supportorganisation:vierohrenprinzip	vmadmin			445
+1617368180	127.0.0.1	E	supportorganisation:helpdesk-allroundinformatik	vmadmin			20
+1617368188	127.0.0.1	E	supportorganisation:helpdesk-allroundinformatik	vmadmin	[Überblick] 		1
+1617368196	127.0.0.1	E	supportorganisation:helpdesk-allroundinformatik	vmadmin	[Überblick] 		0
+1617369884	127.0.0.1	E	supportorganisation:helpdesk-allroundinformatik	vmadmin	[Schritt 1] 		16
+1617369925	127.0.0.1	E	supportorganisation:helpdesk-allroundinformatik	vmadmin	[Schritt 2] 		17
+1617369931	127.0.0.1	E	supportorganisation:helpdesk-allroundinformatik	vmadmin	[Schritt 1] 		-2
+1617369982	127.0.0.1	E	supportorganisation:helpdesk-allroundinformatik	vmadmin	[Stage 2] 		1
+1617370105	127.0.0.1	E	supportorganisation:helpdesk-allroundinformatik	vmadmin	[Schritt 3] 		-1
+1617370113	127.0.0.1	E	supportorganisation:helpdesk-allroundinformatik	vmadmin	[Schritt 3] 		-2
+1617370141	127.0.0.1	E	supportorganisation:helpdesk-allroundinformatik	vmadmin			19
+1617370415	127.0.0.1	E	supportorganisation:helpdesk-allroundinformatik	vmadmin	[Stage 5] 		163
+1617370439	127.0.0.1	E	supportorganisation:helpdesk-allroundinformatik	vmadmin	[Stage 5] 		0
+1617370751	127.0.0.1	E	supportorganisation:helpdesk-allroundinformatik	vmadmin			184
+1617370861	127.0.0.1	E	supportorganisation:helpdesk-allroundinformatik	vmadmin	[Stage 5] 		-78

@@ -8,14 +8,13 @@
   * Anforderungen erfüllen = Anforderungen, die an etwas gestellt werden, zum Beispiel was der Kunde haben möchte. Es beinhaltet die konkret ausgesprochenen, aber auch die unausgesprochenen Erwartungen. 
 
 ===== Prozess =====
-Ein Prozess ist ein Ablauf, eine Folge von logisch zusammenhängenden Aktivitäten zur Erstellung einer Leistung oder Veränderung eines Objektes. Ein Prozess hat immer einen Anfang/Input und ein/en Ende/Output. In unserem Fall könnte der Input eine Störungsmeldung vom Kunden sein oder der Output wäre eine mögliche Lösung. Nun gibt es noch Steuerungsgrössen, welche auf unseren Prozessverlauf Einfluss nehmen. Zum Beispiel Verträge, sogenannte Service Level Agreements mit dem Kunden.
+Ein Prozess ist ein Ablauf, eine Folge von logisch zusammenhängenden Aktivitäten zur Erstellung einer Leistung oder Veränderung eines Objektes. Ein Prozess hat immer einen Anfang/Input und ein/en Ende/Output. In unserem Fall könnte der Input eine Störungsmeldung vom Kunden sein oder der Output wäre eine mögliche Lösung. Nun gibt es noch Steuerungsgrössen, welche auf unseren Prozessverlauf Einfluss nehmen. Zum Beispiel Verträge, sogenannte 
+Service Level Agreements mit dem Kunden.
 
-{{:supportorganisation:prozess.png?nolink&300|}} 
-
+{{:supportorganisation:prozess.png?nolink&300 |}}
 ===== Service =====
 Eine Möglichkeit, einen Mehrwert für Kunden zu erbringen, indem das Erreichen der von den Kunden angestrebten Ergebnisse erleichtert oder gefördert wird. Dabei müssen die Kunden selbst keine Verantwortung für bestimmte Kosten und Risiken tragen. Der Begriff Service wird manchmal als Synonym für Core Service, IT Service oder Service Package genutzt.
 \\ //[[https://wiki.de.it-processmaps.com/index.php/ITIL-Glossar/_ITIL-Begriffe_S#Service|Service - processmaps]]// \\
-{{:supportorganisation:service.png?nolink&300 |}}
 
 
 ===== IT-Service Management =====

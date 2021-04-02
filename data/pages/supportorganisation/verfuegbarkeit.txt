@@ -1,1 +1,18 @@
 ====== Verfügbarkeit ======
+Die Verfügbarkeit eines technischen Systems ist die Wahrscheinlichkeit, dass das System zu einem bestimmten Zeitpunkt oder innerhalb eines vereinbarten Zeitrahmens bestimmte Anforderungen erfüllt.
+
+Bei grösseren, komplexen technischen Systemen (z. B. Stromversorgung, Kraftwerke, Telekommunikation) ist die Verfügbarkeit das Verhältnis der Zeit innerhalb eines vereinbarten Zeitraums, in der das System für seinen tatsächlichen Zweck (Betriebszeit) betriebsbereit ist, zum vereinbarten Zeitraum Zeit. Die Betriebszeit eines technischen Systems kann durch regelmässige Wartung und durch Fehler / Beschädigungen sowie Reparaturen zur Beseitigung dieser Fehler begrenzt werden.
+
+^Verfügbarkeit in %^Max. Ausfall pro Jahr (365x24h)^Max- Ausfall pro Monat (30x24h)^Max Ausfall pro Woche (7x24h)^Max Ausfall pro Tag (24h)^
+| 99.999%  | 0.0876  | 0.0072  | 0.00168   | 0.00024 |
+| 99.99%   | 0.876   | 0.072   | 0.0168    | 0.0024  |
+| 99.9%    | 8.76    | 0.72    | 0.168     | 0.024   |                                   
+| 99.5%    | 43.8    | 3.6     | 0.84      | 0.12    |
+| 99%      | 87.6    | 7.2     | 1.68      | 0.24    |
+
+===== Formel =====
+Die Verfügbarkeit lässt sich anhand der Zeit definieren, in der ein System verfügbar ist: 
+
+**Verfügbarkeit = Gesamtzeit - Gesamtausfallzeit / Gesamtzeit**
+
+//[[https://de.wikipedia.org/wiki/Verf%C3%BCgbarkeit | Wikipedia]]//
