@@ -1,6 +1,8 @@
 ====== Wiki Home ======
 Dieses Wiki enthält das, was ich bisher in Modul 437 gelernt habe. Hier habe ich Themen zum IT-Support dokumentiert.
 
+{{ :homewiki.png?nolink&400|}}
+
 Und hier können Sie meine neuesten Beiträge lesen:
   * [[supportorganisation:begriffssammlung| Wichtige Begriffe ]]
   * [[supportorganisation:helpdesk-allroundinformatik|Helpdesk der Firma Allroundinformatik]]
@@ -8,4 +10,4 @@ Und hier können Sie meine neuesten Beiträge lesen:
   * [[supportorganisation:sla|Service Level Agreement]]
   * [[supportorganisation:supportlevels|Support Levels]]
   * [[supportorganisation:verfuegbarkeit|Verfügbarkeit]]
-  * [[supportorganisation:vierohrenprinzip|Das 4 Ohren Modell]]
+  * [[supportorganisation:vierohrenprinzip|4 Ohren Prinzip]]
