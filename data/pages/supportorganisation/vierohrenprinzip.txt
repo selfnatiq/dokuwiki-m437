@@ -23,4 +23,6 @@ Die Beziehungsebene im Vier-Ohren-Modell zeigt, wie der Sender zum Empfänger st
 ===== Appellebene =====
 Wer kommuniziert, möchte etwas. Dieser Punkt wird auf der Appellebene berücksichtigt. Sie steht dafür, was der Sender vom Empfänger will und was er erreichen möchte. Auf der Appellseite können Wünsche, Appelle, Ratschläge oder Anweisungen kommuniziert werden, die entweder offen oder verdeckt erscheinen. Hört der Empfänger eine Nachricht mit seinem Appellohr, fragt er sich: Was soll ich jetzt (nicht) tun?
 
+----
+
 [[https://www.schulz-von-thun.de/die-modelle/das-kommunikationsquadrat | Schulz von thun]]

@@ -7,15 +7,22 @@
   * Bessere Qualität als Verlangt: Preis oft zu hoch.
   * Anforderungen erfüllen = Anforderungen, die an etwas gestellt werden, zum Beispiel was der Kunde haben möchte. Es beinhaltet die konkret ausgesprochenen, aber auch die unausgesprochenen Erwartungen. 
 
+----
+
 ===== Prozess =====
 Ein Prozess ist ein Ablauf, eine Folge von logisch zusammenhängenden Aktivitäten zur Erstellung einer Leistung oder Veränderung eines Objektes. Ein Prozess hat immer einen Anfang/Input und ein/en Ende/Output. In unserem Fall könnte der Input eine Störungsmeldung vom Kunden sein oder der Output wäre eine mögliche Lösung. Nun gibt es noch Steuerungsgrössen, welche auf unseren Prozessverlauf Einfluss nehmen. Zum Beispiel Verträge, sogenannte 
 Service Level Agreements mit dem Kunden.
 
 {{:supportorganisation:prozess.png?nolink&300 |}}
+
+\\ \\ \\ \\ \\ \\
+
+---- 
 ===== Service =====
 Eine Möglichkeit, einen Mehrwert für Kunden zu erbringen, indem das Erreichen der von den Kunden angestrebten Ergebnisse erleichtert oder gefördert wird. Dabei müssen die Kunden selbst keine Verantwortung für bestimmte Kosten und Risiken tragen. Der Begriff Service wird manchmal als Synonym für Core Service, IT Service oder Service Package genutzt.
 \\ //[[https://wiki.de.it-processmaps.com/index.php/ITIL-Glossar/_ITIL-Begriffe_S#Service|Service - processmaps]]// \\
 
+----
 
 ===== IT-Service Management =====
 ITSM ist ein Framework, das die Verwendung eines prozessbasierten Ansatzes für das Management beschreibt. Statt auf IT-Systemen liegt sein Schwerpunkt auf Kundenanforderungen und IT-Services für Kunden. Ausserdem ist ITSM auf kontinuierliche Verbesserungen ausgelegt.
@@ -30,8 +37,13 @@ Ein häufiges Anwendungsbeispiel für ITSM-Services sind IT Service Desks oder H
 ITIL steht für IT Infrastructure Library. Es ist ein Framework (Sammlung) von Best Practices (Erfolgsmethoden, von IT Profis aus der Praxis für die Praxis) zur Umsetzung eines IT-Service-Managements. 
 
 [[supportorganisation:itil|Mehr über ITIL]]
+
+----
+
 ===== Incident =====
 Unter einem Incident verstehen wir eine Störung des normalen ICT-Betriebes, welche zu Beeinträchtigungen führt. Diesen gilt es nach Möglichkeiten zu vermeiden. Die Aufgabe des Incident Managements besteht darin, den IT Service so schnell wie möglich wieder in den Normalzustand zu bringen oder mit Workarounds sicherzustellen, dass der Betrieb weiter gehen kann. Das Incident Management betreibt einen Helpdesk, welcher sich um diese Incidents kümmert.
+
+----
 
 ===== Helpdesk =====
 Das Helpdesk entspricht einer Weitergehenden Supportorganistation in der Anfragen auch per FAX und E-mail oder im Chat und Komplexe Probleme behoben werden. Meistens nimmt das Helpdesk zusätzliche operative Aufgaben wahr.
@@ -42,9 +54,17 @@ Das Helpdesk entspricht einer Weitergehenden Supportorganistation in der Anfrage
   * Kundeninformation
 
 [[supportorganisation:helpdesk-allroundinformatik|Helpdesk der Firma Allroundinformatik]]
+
+----
+
+
 ===== Service Desk =====
 Service Desk sorgt für die schnellstmögliche Wiederherstellung des definierten Betriebs­zustands eines Service. Neben Störungen werden auch alle Anfragen (Service Requests) der Anwender über das Service Desk erfasst, außerdem wird erste Hilfestellung geleistet und gegebe­nenfalls die weitere Bearbeitung in den nachgelagerten Supporteinheiten koordiniert. \\
 //[[https://wiki.de.it-processmaps.com/index.php/Service_Desk_and_Incident_Management| Service Desk - processmaps]]//
+
+----
+
+
 ===== SPoC =====
 Single Point of Contact: Dabei handelt es sich um ein Zentrale Anlauf- und Kontakt Stelle, an die Kunden die Supportorganisation immer zuerst wenden. Des SPoC nimmt Anfragen und Störungsmeldungen des Kunden entgegen und bearbeitet diese unter Berücksichtigung der im SLA vereinbarten Leistungen und Bedingungen.
 
