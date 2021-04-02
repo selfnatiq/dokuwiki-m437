@@ -1,1 +1,42 @@
 ====== Service Level Agreement ======
+
+Service Level Agreement (SLA) bezeichnet eine Vereinbarung zwischen Anbieter und Kunde und dient der Qualitätssicherung. In dieser Vereinbarung werden die genauen Leistungseigenschaften und Service Levels des Produktes bzw. der Dienstleistung festgelegt. Service Levels können je nach Auftragnehmer variieren und unter betriebswirtschaftlichen Gesichtspunkten vom Auftraggeber ausgewählt werden. Durch den klar definierten Leistungsumfang und Qualität, wird mehr Transparenz für den Auftraggeber geschaffen und eindeutige Leistungsansprüche festgelegt.
+
+**Die Wichtigsten Bestandteile eines SLA’s sind:**
+  * Zielsetzung 
+  * Vertragspartner
+  * Leistungsbeschreibung
+  * Zentrale Ansprechstelle
+  * Verfügbarkeit des Services 
+  * Antwortzeiten
+    * Reaktionszeit
+    * Interventionszeit
+    * Wiederherstellungszeit
+    * Abschluss der Störungsbehebung
+    * Fehlerbehebung
+  * Standards
+  * Job-Planung / -Wartung
+  * Reporting
+  * Service-Level-Kennzahlen 
+  * Messzeitraum
+  * Pflichten des Kunden
+  * Sonstige Definitionen
+  * Preisgestaltung
+  * Rechtsfolgen bei Nichteinhaltung (insbesondere Vertragsstrafen)
+  * Vertragslaufzeit
+  * Unterschriften
+
+===== SLA der Allround Informatik AG =====
+Wir zeigen Ihnen ein Beispiel, wie wir ein SLA für die Allround Informatik AG vorbereitet haben: \\
+[[https://drive.google.com/file/d/1qd3HqrTMkUFjjGyaBhOmcCp1jWYv6iTM/view?usp=sharing|SLA Allround Informatik AG]]
+
+===== Wo wird SLA verwendet? =====
+Anwendung von SLAs findet man überall dort, wo es ein geregeltes Dienstleistungsverhältnis zwischen einem (Dienstleistungs-)Lieferanten und einem Leistungsempfänger (Kunde) gibt. Beispielhaft werden SLAs in Outsourcing-Verträgen und in Shared Service Center eingesetzt. \\ \\ **Nachfolgend einige Beispiele, in welchen Gebieten SLA heute verwendet werden:** \\ \\
+{{:supportorganisation:sla.jpg?nolink&500|}}
+
+----
+
+**Quellen:**
+Unterlagen GIBB & Unterlagen TF Bern & [[https://app.diagrams.net/|Grafik-Tool]] & [[https://www.rave-principle.de/wp-content/themes/rave/img/logo-allround-team.com.png|Logo]] & [[https://res.cloudinary.com/hjlz68xhm/image/upload/dpr_auto,q_auto,c_fill,f_png,w_900,h_700/q_auto/r2thnxyjzpxwqag0e6b8.png|Deckblatt]]
+
+**Bemerkung:** Diese Seite wurde mit Hilfe von **Ömercan Celik** erstellt.

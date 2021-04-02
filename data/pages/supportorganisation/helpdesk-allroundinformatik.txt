@@ -34,6 +34,6 @@ Natürlich gibt es viele andere Fragen, die geklärt werden müssen, aber das va
 
 Benutzer über die Lösung informiert, und die Lösung des Vorfalls wird dokumentiert. Wenn alles richtig gemacht wurde, wird die Anfrage geschlossen zugewiesen.
 
-==== Stage 6 ====
+==== Stage 5 ====
 
 Benutzern Feedback geben und Feedback der Benutzer sammeln per E-Mail oder Website.
