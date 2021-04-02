@@ -2,7 +2,7 @@
 ===== Überblick =====
 Ziel des Helpdesk ist es, die Lösung von Kundenanliegen und Problemen so schnell wie möglich zu erleichtern. Das Helpdesk bietet eine zentrale Anlaufstelle, um sicherzustellen, dass alle Anrufe weiterverfolgt und Probleme gelöst werden.
 
-{{ :supportorganisation:helpdesk-ablauf.png?nolink&1200 |}}
+{{ :supportorganisation:helpdesk-ablauf.png?nolink&1700 |}}
 
 ===== Ablauf des Helpdesk =====
 
